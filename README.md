@@ -18,7 +18,7 @@ The goal of this project is to deliver a comprehensive overview of Netflix's con
 - **Content Added Over the Years**: A trend showing the growth in content added to Netflix from 2008 to 2020.
 
 ## Data Source
-- The data used in this analysis includes global Netflix content data, including information on movies, TV shows, genres, and the number of Netflix subscribers. This data is visualized using the Tableau workbook file (`Netflix Analysis.twbx`).
+- The data used in this analysis includes global Netflix content data, including information on movies, TV shows, genres, and the number of Netflix subscribers. This data is visualized using the Tableau workbook file (`Netflix Content and Subscriber Analysis.twbx`).
 
 ## Features
 - **Content Type Distribution**: Interactive charts showing the percentage of TV shows vs movies in Netflix's catalog.
