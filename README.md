@@ -29,7 +29,6 @@ The goal of this project is to deliver a comprehensive overview of Netflix's con
 
 ## Technologies Used
 - **Tableau**: For data visualization and creating interactive dashboards.
-- **PNG Image**: Provides a snapshot of the Netflix analysis (used for overview).
 
 ## How to Use
 1. Open the provided Tableau Workbook file (`Netflix Content and Subscriber Analysis.twbx`).
